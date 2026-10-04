@@ -5,7 +5,7 @@ I built this project to answer a simple question a telecom company would care ab
 It started as a standard model-training notebook, but I wanted it to feel like something a retention team could actually use. So the final result is a small app: you enter a customer's details and get a churn probability, a risk level, a plain explanation of what drove the prediction, and some suggested retention actions.
 
 
-**Live demo:**https://churn-prediction-sy.streamlit.app
+**Live demo:** -- https://churn-prediction-sy.streamlit.app
 
 
 ## What it does
