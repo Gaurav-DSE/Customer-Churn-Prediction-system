@@ -4,13 +4,9 @@ I built this project to answer a simple question a telecom company would care ab
 
 It started as a standard model-training notebook, but I wanted it to feel like something a retention team could actually use. So the final result is a small app: you enter a customer's details and get a churn probability, a risk level, a plain explanation of what drove the prediction, and some suggested retention actions.
 
-<!-- Add your live demo link here once deployed:
-**Live demo:** https://your-app-link.streamlit.app
--->
 
-<!-- Add a screenshot once you have one (put the image in a screenshots/ folder):
-![App screenshot](screenshots/app_home.png)
--->
+**Live demo:**https://churn-prediction-sy.streamlit.app
+
 
 ## What it does
 
